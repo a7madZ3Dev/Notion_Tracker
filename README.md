@@ -41,6 +41,7 @@ flutter run
 ## 🎥 Promo Video
 
 <img alt="GIF" src="preview/demo_1.gif" width= "300" /> 
+
 <br>
 
 ## 🧑 Author
@@ -56,3 +57,6 @@ If you liked the repo then kindly support it by giving it a star ⭐!
 
 Copyright (c) 2023 Ahmad Alzoabi
 
+## Visitors Count
+
+<img align="left" src = "https://profile-counter.glitch.me/login_screen_ui/count.svg" alt ="Loading">
