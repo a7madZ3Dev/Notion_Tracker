@@ -32,7 +32,6 @@ cd Notion_Tracker
 flutter packages get
 flutter run
 ```
-
 <br>
 
 ## 📱 Screen Shots 
