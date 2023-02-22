@@ -44,10 +44,6 @@ flutter run
 <img alt="GIF" src="preview/demo_1.gif" width= "300" /> 
 <br>
 
-## 🔑 License
-
-- This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details
-
 ## 🧑 Author
 
 #### Ahmad Alzoabi
